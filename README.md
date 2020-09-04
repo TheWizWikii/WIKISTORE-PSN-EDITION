@@ -31,7 +31,7 @@ Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 
 ---
 
-Video OFICIAL de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas (cualquier versión 1.x.x) Descargar solo WIKISTORE para el firmware que esteis utilizando HFW o CFW. 
+Video de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas (cualquier versión 1.x.x). El video es de la otra WIKISTORE pero la instalación es la misma ya no se ha cambiado el TitleID. Recordad que WIKISTORE PSN EDITION sobrescribirá cualquiero otra versión anterior de WIKISTORE. Pincha en la imagen para ver el video
 
 [![Watch the video](https://img.youtube.com/vi/Fun_KCq8B5k/maxresdefault.jpg)](https://youtu.be/Fun_KCq8B5k)
 
