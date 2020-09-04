@@ -4,7 +4,10 @@
 
 ### Que és:
 
-Esto es una `Fr33shop` / Store versión PSN donde podrás descargar juegos de PSX, PS2, PSP, PS3 directamente desde tu consola PS3.
+Esto es una `Fr33shop` / Store versión PSN donde podrás descargar juegos de PSX, PS2, PSP, PS3, DLC´S directamente desde tu consola PS3.
+
+### NOTA:
+Para Juegos exclusivos de diferentes sistemas y difíciles de encontrar: https://itstime2play.com/
 
 ### En qué consolas y firmwares funciona:
 
