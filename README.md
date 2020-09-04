@@ -23,8 +23,8 @@ Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 | ------ | ------ |
 | 15.280_Licencias.pkg | Instala el pack de licencias PSN de Juegos y DLCs de PS3, PS2, PSX, PSP de toda la vida (No Recomendado) |
 | 15.280 Licencias.zip | Pack de Licencias a instalar por separado de forma manual a la carpeta exdata del USB o HDD (Recomendado) |
-| Fix_CFW.pkg | Instala un fix por si se visualiza WIKISTORE en la consola solo CFW Rebug 4.86 LITE |
-| Fix_HFW.pkg | Instala un fix por si se visualiza WIKISTORE en la consola solo HFW/HEN |
+| Fix_CFW.pkg | Instala un fix para visualizar la store en la consola solo CFW Rebug 4.86 LITE |
+| Fix_HFW.pkg | Instala un fix para visualizar la store en la consola solo HFW/HEN |
 | WIKISTORE_PSN_EDITION_1.0.0.pkg | Instalador WIKISTORE |
 
 - Se necesita webMAN MOD para utilizar todas las funciones de WIKISTORE puedes descargarlo desde el repositorio de Aldo https://github.com/aldostools/webMAN-MOD/releases o desde este post https://www.itstime2play.com/threads/webman-mod-v1-47-28-plugin.7/
@@ -46,6 +46,7 @@ Video de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas (cu
 - **#lmn7** (Exploits Offline and Make pkg custom)
 - **#Joonie** (HFW 4.86 and contributions)
 - **#PSX-PLACE** (long contribution in PS3 Scene) best site for PS3 https://www.psx-place.com/
+- **#NoPayStation** 
 
 ---
 
