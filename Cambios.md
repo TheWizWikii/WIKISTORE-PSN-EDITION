@@ -1,4 +1,4 @@
-### Versión Inicial 1.0.1
+### Versión 1.0.1
 
 - Añadido Juego PS3 METAL GEAR SOLID 3 HD EDITION (JP)
 - Añadido Juego PS3 METAL GEAR SOLID 2 SONS OF LIBERTY HD EDITION (JP)
