@@ -61,5 +61,8 @@ Video de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas (cu
 
 *Si haces uso de este repositorio para hacer vuestra propia creación dar creditos y de enlazar con la versión original.
 
+### Creditos
+- VIDEOGAMES
+
 
 
