@@ -72,6 +72,7 @@
 - Añadido juego PSP Tekken 6
 - Añadido juego PSP The 3rd Birthday
 - Añadido juego PSP Toy Story 3
+- Añadidos todos los DLC´S de PS3 PSN (US / EU / JP / HK) + de 8.000 Dlc´s en total
 
 
 ------------------------------------------------------------------------------------------------------------------
