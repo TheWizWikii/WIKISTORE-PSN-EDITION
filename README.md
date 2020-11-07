@@ -49,6 +49,7 @@ Video de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas (cu
 - **#lmn7** (Exploits Offline and Make pkg custom)
 - **#Joonie** (HFW 4.86 and contributions)
 - **#PSX-PLACE** (long contribution in PS3 Scene) best site for PS3 https://www.psx-place.com/
+- **#CodeCrafft** (automatic PSNstuff app)
 - **#NoPayStation** 
 - **#VIDEOGAMES** (Contribución en juegos de PSP PSN)
 
