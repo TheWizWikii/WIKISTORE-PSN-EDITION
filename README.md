@@ -1,6 +1,6 @@
 # WIKISTORE-PSN-EDITION
 ---
-![Version](https://img.shields.io/badge/Version-1.0.1-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.0.2-brightgreen.svg)
 
 ### Que és:
 
@@ -12,7 +12,7 @@ Para Juegos exclusivos de diferentes sistemas y difíciles de encontrar: https:/
 ### En qué consolas y firmwares funciona:
 
 WIKISTORE és compatible con todoas las consolas PS3 (Todos los modelos) ya sea FAT/SLIM/SUPER SLIM en los
-siguientes firmwares: 4.86 HFW o 4.86 CFW Rebug LITE
+siguientes firmwares: 4.86/4.87 HFW o 4.86 CFW Rebug LITE
 
 ![WIKISTORE](https://i.imgur.com/nteXg72.png)
 
@@ -26,8 +26,9 @@ Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 | ------ | ------ |
 | 15.280_Licencias.pkg | Instala el pack de licencias PSN de Juegos y DLCs de PS3, PS2, PSX, PSP de toda la vida (No Recomendado) |
 | 15.280 Licencias.zip | Pack de Licencias a instalar por separado de forma manual a la carpeta exdata del USB o HDD (Recomendado) |
-| Fix_CFW.pkg | Instala un fix para visualizar la store en la consola solo CFW Rebug 4.86 LITE |
-| Fix_HFW.pkg | Instala un fix para visualizar la store en la consola solo HFW/HEN |
+| Fix_CFW_4.86_Rebug_LITE.pkg | Instala un fix para visualizar la store en la consola solo CFW Rebug 4.86 LITE |
+| Fix_HFW_4.86.pkg | Instala un fix para visualizar la store en la consola solo 4.86 HFW/HEN |
+| Fix_HFW_4.87.pkg | Instala un fix para visualizar la store en la consola solo 4.87 HFW/HEN |
 | WIKISTORE_PSN_EDITION_1.0.0.pkg | Instalador WIKISTORE |
 
 - Se necesita webMAN MOD para utilizar todas las funciones de WIKISTORE puedes descargarlo desde el repositorio de Aldo https://github.com/aldostools/webMAN-MOD/releases o desde este post https://www.itstime2play.com/threads/webman-mod-v1-47-28-plugin.7/
