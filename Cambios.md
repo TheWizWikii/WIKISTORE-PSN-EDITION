@@ -1,3 +1,13 @@
+### Versión 1.0.2
+
+- Añadido juego PS3 Split Second (US) 
+
+
+### Versión 1.0.2
+
+- Actualizado el HEN de la Tienda funcional en HFW 4.87
+
+
 ### Versión 1.0.1
 
 - Añadido Juego PS3 METAL GEAR SOLID 3 HD EDITION (JP)
