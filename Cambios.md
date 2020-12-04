@@ -1,6 +1,9 @@
 ### Versión 1.0.3
 
 - Añadido juego PS3 Split Second (US) 
+- Añadido juego PS3 Zuma (US)
+- Añadido juego PS3 Switchball (EU)
+- Añadido juego PS3 Switchball (US)
 
 
 ### Versión 1.0.2
