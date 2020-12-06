@@ -4,6 +4,9 @@
 - Añadido juego PS3 Zuma (US)
 - Añadido juego PS3 Switchball (EU)
 - Añadido juego PS3 Switchball (US)
+- Añadido Pack de 108 Temas
+- Añadido Pack de 400 Temas
+- Añadida pagina para descargar temas sueltos
 
 
 ### Versión 1.0.2
