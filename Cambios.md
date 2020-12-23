@@ -8,6 +8,27 @@
 - Añadido Pack de 400 Temas
 - Añadida pagina para descargar temas sueltos
 - Eliminado el Activar HEN desde la tienda
+- Añadido hombrew IRISMAN 4.86.3
+- Añadido Hombrew Sen Enabler 6.7.2 CFW 4.87
+- Añadido hombrew Managunz 1.38
+- Añadido hombrew multiMAN 4.85.1
+- Añadido hombrew PS2 Classics Manager v1.02
+- Añadido hombrew PS2 Classics Manager v1.01 (HEN)
+- Añadido hombrew PS2 Launcher Rebug Edition 1.00
+- Añadido hombrew PS2 Classics Placeholder
+- Añadido hombrew PSP Mini Launcher v2.0
+- Añadido hombrew PSP Remaster Launcher 2.0
+- Añadido plugin webMAN MOD v1.47.31
+- Añadido Snes9XNext PS3 v.0
+- Añadido hombrew RetroArch v.8.5
+- Añadido DOSBox v.74
+- Añadido ScummVM v.0.0
+- Añadido Retro Collection Vol. 1 - Atari 2600 Edition
+- Añadido Retro Collection Vol. 2 - Nintendo NES Edition
+- Añadido Super Mario War v.8 r3
+- Añadido hombrew Control Fan Utility v.1.8
+- Añadido hombrew Freeshop pkgi v1.1.8
+
 
 
 ### Versión 1.0.2
