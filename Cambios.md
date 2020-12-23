@@ -28,6 +28,7 @@
 - Añadido Super Mario War v.8 r3
 - Añadido hombrew Control Fan Utility v.1.8
 - Añadido hombrew Freeshop pkgi v1.1.8
+- Separada la sección de juegos PSN EU en 2 partes para mayor fluidez
 
 
 
