@@ -7,6 +7,7 @@
 - Añadido Pack de 108 Temas
 - Añadido Pack de 400 Temas
 - Añadida pagina para descargar temas sueltos
+- Eliminado el Activar HEN desde la tienda
 
 
 ### Versión 1.0.2
