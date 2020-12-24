@@ -29,6 +29,10 @@
 - Añadido hombrew Control Fan Utility v.1.8
 - Añadido hombrew Freeshop pkgi v1.1.8
 - Separada la sección de juegos PSN EU en 2 partes para mayor fluidez
+- Arreglados links de descarga en segundo plano PS3 (No recomendado) se quedan en 99% pendiente
+- Cambiados algunos iconos
+- Añadido el numero de juegos disponiles en cada sección de juegos
+- Añadido actualizador para actualizar WIKISTORE desde la cosnola (veremos cuanto dura xD)
 
 
 
