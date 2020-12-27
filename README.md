@@ -1,6 +1,6 @@
 # WIKISTORE-PSN-EDITION
 ---
-![Version](https://img.shields.io/badge/Version-1.0.2-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.0.3-brightgreen.svg)
 
 ### Que és:
 
@@ -30,6 +30,8 @@ Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 | Fix_HFW_4.86.pkg | Instala un fix para visualizar la store en la consola solo 4.86 HFW/HEN |
 | Fix_HFW_4.87.pkg | Instala un fix para visualizar la store en la consola solo 4.87 HFW/HEN |
 | WIKISTORE_PSN_EDITION_1.0.0.pkg | Instalador WIKISTORE |
+| WIKISTORE_PSN_EDITION_CFW_4.87_EVILNAT_FIX_v1.0.0.pkg | Instalador + Fix solo para CFW 4.87 EVILNAT |
+
 
 - Se necesita webMAN MOD para utilizar todas las funciones de WIKISTORE puedes descargarlo desde el repositorio de Aldo https://github.com/aldostools/webMAN-MOD/releases o desde este post https://www.itstime2play.com/threads/webman-mod-v1-47-28-plugin.7/
 
