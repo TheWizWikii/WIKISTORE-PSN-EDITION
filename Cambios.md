@@ -1,3 +1,9 @@
+### Versión 1.0.4
+
+- Añadidos Temas sueltos
+
+
+
 ### Versión 1.0.3
 
 - Añadido juego PS3 Split Second (US) 
