@@ -2,7 +2,7 @@
 
 - Añadidos Temas sueltos
 
-
+------------------------------------------------------------------------------------------------------------------
 
 ### Versión 1.0.3
 
@@ -40,11 +40,14 @@
 - Añadido el numero de juegos disponiles en cada sección de juegos
 - Añadido actualizador para actualizar WIKISTORE desde la cosnola (veremos cuanto dura xD)
 
+------------------------------------------------------------------------------------------------------------------
 
 
 ### Versión 1.0.2
 
 - Actualizado el HEN de la Tienda funcional en HFW 4.87
+
+------------------------------------------------------------------------------------------------------------------
 
 
 ### Versión 1.0.1
