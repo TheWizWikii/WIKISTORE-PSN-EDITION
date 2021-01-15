@@ -1,6 +1,16 @@
 ### Versión 1.0.4
 
 - Añadidos Temas sueltos
+- Añadido juego PS2 Captain Tsubasa - Campeones Oliver y Benji (JP)
+- Añadido juego PS2 CF 2005 Real Madrid (PAL)
+- Añadido juego PS2 Club de Futbol Real Madrid (PAL)
+- Añadido juego PS2 Alone in The Dark The New Nightmare (PAL)
+- Añadido juego PS2 CF Bayern Munchen 2004 (PAL)
+- Añadido juego PS2 CSI 3 - Dimensions of Murder (NTSC-U)
+- Añadido juego PS2 STAR WARS JEDI STARFIGHTER (EU)
+- Añadido juego PS2 LEGO STAR WARS II: the original trilogy (EU)
+- Añadido juego PS2 STAR WARS BOUNTY HUNTER (EU)
+- Añadido juego PS2 Altered Beast (PAL)
 
 ------------------------------------------------------------------------------------------------------------------
 
