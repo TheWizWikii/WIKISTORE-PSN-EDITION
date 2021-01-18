@@ -11,6 +11,27 @@
 - Añadido juego PS2 LEGO STAR WARS II: the original trilogy (EU)
 - Añadido juego PS2 STAR WARS BOUNTY HUNTER (EU)
 - Añadido juego PS2 Altered Beast (PAL)
+- Añadido juego PS2 Mortal Kombat Shaolin Monks
+- Añadido juego PS2 Dragon Ball Z Budokai Tenkaichi 4
+- Añadido juego PS2 Masters of the Universe He-Man Defender of Greyskull
+- Añadido juego PS2 SSX Tricky
+- Añadido juego PS2 Def Jam Fight For NY
+- Añadido juego PS2 El Padrino
+- Añadido juego PS2 Fahrenheit Indigo Prophecy (PAL
+- Añadido juego PS2
+- Añadido juego PS2 FIFA Street 2
+- Añadido juego PS2 Mafia
+- Añadido juego PS2 Getaway The Black Monday (NTSC-U)
+- Añadido juego PS2 Los Simpson el Videojuego (NTSC-U)
+- Añadido juego PS2 The Simpsons Road Rage (PAL)
+- Añadido juego PS2 The Matrix Path of NEO (PAL)
+- Añadido juego PS2 Torrente 3 El Protector (PAL)
+- Añadido juego PS2 Leisure Suit Larry Magna Cum Laude (PAL)
+- Añadido juego PS2 Dragon Quest VIII Journey of the Cursed King (PAL)
+- Añadido juego PS2 Manhunt (PAL)
+- Añadido juego PS2 Manhunt 2 (PAL)
+- Añadido juego PS2
+- Añadido juego PS2
 
 ------------------------------------------------------------------------------------------------------------------
 
