@@ -18,20 +18,47 @@
 - Añadido juego PS2 Def Jam Fight For NY
 - Añadido juego PS2 El Padrino
 - Añadido juego PS2 Fahrenheit Indigo Prophecy (PAL
-- Añadido juego PS2
+- Añadido juego PS2 FIFA Street (PAL)
 - Añadido juego PS2 FIFA Street 2
 - Añadido juego PS2 Mafia
 - Añadido juego PS2 Getaway The Black Monday (NTSC-U)
 - Añadido juego PS2 Los Simpson el Videojuego (NTSC-U)
 - Añadido juego PS2 The Simpsons Road Rage (PAL)
+- Añadido juego PS2 Enter The Matrix (PAL)
 - Añadido juego PS2 The Matrix Path of NEO (PAL)
 - Añadido juego PS2 Torrente 3 El Protector (PAL)
 - Añadido juego PS2 Leisure Suit Larry Magna Cum Laude (PAL)
 - Añadido juego PS2 Dragon Quest VIII Journey of the Cursed King (PAL)
 - Añadido juego PS2 Manhunt (PAL)
 - Añadido juego PS2 Manhunt 2 (PAL)
-- Añadido juego PS2
-- Añadido juego PS2
+- Añadido juego PS2 The King of Fighters 2002 Unlimited Match
+- Añadido juego PS2 Harry Potter y La Camara Secreta (PAL)
+- Añadido juego PS2 Harry Potter y El Prisionero De Azkaban (PAL)
+- Añadido juego PS2 Los Picapiedra Bedrock Racing (PAL)
+- Añadido juego PS2 Los Picapiedra Viva Rock Vegas (PAL)
+- Añadido juego PS2 Gadget - the Gadgetinis (PAL)
+- Añadido juego PS2 Fatal Fury Battle Archives Volume 1 (NTSC-U)
+- Añadido juego PS2 El Codigo Da Vinci (NTSC)
+- Añadido juego PS2 Grand Theft Auto III (NTSC-U)
+- Añadido juego PS2 Playboy The Mansion (PAL)
+- Añadido juego PS2 Need for Speed Underground [PAL]
+- Añadido juego PS2 Need for Speed Underground 2 [PAL]
+- Añadido juego PS2 Gallop Racer 2 [PAL]
+- Añadido juego PS2 Grand Thef Auto Liberty City Stories [PAL]
+- Añadido juego PS2 DBZ Budokai Tenkaichi 4 Beta 8 [NTSC]
+- Añadido juego PS2 Disneys The Haunted Mansion [NTSC]
+- Añadido juego PS2 Total Club Manager 2005 [PAL]
+- Añadido juego PS2 Nickelodeon SpongeBob and Friends Attack of the Toybots [PAL]
+- Añadido juego PS2 Obscure [PAL]
+- Añadido juego PS2 Obscure The Aftermath [NTSC]
+- Añadido juego PS2 Rocky [PAL]
+- Añadido juego PS2 Scarface The World Is Yours [PAL]
+- Añadido juego PS2 The Sopranos Road To Respect [PAL]
+- Añadido juego PS2 Sphinx And The Cursed Mummy [PAL]
+- Añadido juego PS2 Spiderman [PAL]
+- Añadido juego PS2 Spiderman 2 [PAL]
+- Añadido juego PS2 Summer Heat Beach Volleyball [PAL]
+
 
 ------------------------------------------------------------------------------------------------------------------
 
