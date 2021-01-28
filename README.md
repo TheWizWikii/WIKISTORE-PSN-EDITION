@@ -12,7 +12,12 @@ Para Juegos exclusivos de diferentes sistemas y difíciles de encontrar: https:/
 ### En qué consolas y firmwares funciona:
 
 WIKISTORE és compatible con todoas las consolas PS3 (Todos los modelos) ya sea FAT/SLIM/SUPER SLIM en los
-siguientes firmwares: 4.87 HFW
+siguientes firmwares: 
+
+- HFW HEN 4.86/4.87
+- CFW 4.86 REBUG
+- CFW 4.87 EVILNAT
+- CFW 4.87 FERROX
 
 ![WIKISTORE](https://i.imgur.com/nteXg72.png)
 
@@ -29,7 +34,7 @@ Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 | Fix_CFW_4.86_Rebug_LITE.pkg | Instala un fix para visualizar la store en la consola solo CFW Rebug 4.86 LITE |
 | Fix_HFW_4.86.pkg | Instala un fix para visualizar la store en la consola solo 4.86 HFW/HEN |
 | Fix_HFW_4.87.pkg | Instala un fix para visualizar la store en la consola solo 4.87 HFW/HEN |
-| WIKISTORE_PSN_EDITION_1.0.3.pkg | Instalador WIKISTORE |
+| WIKISTORE_PSN_EDITION_1.0.4.pkg | Instalador WIKISTORE |
 | WIKISTORE_PSN_EDITION_CFW_4.87_EVILNAT_FIX_v1.0.0.pkg | Instalador + Fix solo para CFW 4.87 EVILNAT |
 
 
