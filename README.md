@@ -1,6 +1,6 @@
 # WIKISTORE-PSN-EDITION
 ---
-![Version](https://img.shields.io/badge/Version-1.0.3-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.0.4-brightgreen.svg)
 
 ### Que és:
 
@@ -12,7 +12,7 @@ Para Juegos exclusivos de diferentes sistemas y difíciles de encontrar: https:/
 ### En qué consolas y firmwares funciona:
 
 WIKISTORE és compatible con todoas las consolas PS3 (Todos los modelos) ya sea FAT/SLIM/SUPER SLIM en los
-siguientes firmwares: 4.86/4.87 HFW o 4.86 CFW Rebug LITE
+siguientes firmwares: 4.87 HFW
 
 ![WIKISTORE](https://i.imgur.com/nteXg72.png)
 
