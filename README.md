@@ -50,7 +50,7 @@ Video de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas (cu
 ### Credits:
 
 - **#PS3XploitTeam** (esc0rtd3w - Habib - bguerville) oficial HEN and tools http://ps3xploit.com/
-- **#DeVil303** (Oficial HAN/HEN Toolbox) and some usefull apps
+- **#DeVil303** (Oficial HAN/HEN Toolbox/themes/wallpapers) and some usefull apps
 - **#pink1** (Oficial HAN Toolbox)
 - **#Berion** (some icons)
 - **#ShaolinAssassin** (contribution in HAN Toolbox)
