@@ -1,6 +1,6 @@
 # WIKISTORE
 ---
-![Version](https://img.shields.io/badge/Version-1.0.4-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.0.5-brightgreen.svg)
 
 ### Que és:
 
@@ -14,9 +14,9 @@ Para Juegos exclusivos de diferentes sistemas y difíciles de encontrar: https:/
 WIKISTORE és compatible con todoas las consolas PS3 (Todos los modelos) ya sea FAT/SLIM/SUPER SLIM en los
 siguientes firmwares: 
 
-- HFW HEN 4.86/4.87
+- HFW HEN 4.86/4.87/4.88
 - CFW 4.86 REBUG
-- CFW 4.87 EVILNAT
+- CFW 4.87/4.88 EVILNAT
 - CFW 4.87 FERROX
 
 ![WIKISTORE](https://i.imgur.com/nteXg72.png)
@@ -59,7 +59,7 @@ Video de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas (cu
 - **#PSX-PLACE** (long contribution in PS3 Scene) best site for PS3 https://www.psx-place.com/
 - **#CodeCrafft** (automatic PSNstuff app)
 - **#NoPayStation** 
-- **#VIDEOGAMES** (Contribución en juegos de PSP PSN)
+- **#Armando Lima** (Actualizaciones añadiendo cosas)
 
 ---
 
